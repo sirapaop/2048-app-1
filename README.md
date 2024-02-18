@@ -1,6 +1,7 @@
 # 2048-app
 
 --- first time in aws ---
+
 chose ubuntu in aws 
 1. install docker https://medium.com/@srijaanaparthy/step-by-step-guide-to-install-docker-on-ubuntu-in-aws-a39746e5a63
 2. install minikube https://www.linuxtechi.com/how-to-install-minikube-on-ubuntu/
